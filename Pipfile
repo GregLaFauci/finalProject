@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 django = "==3.0.*"
-pillow = "==7.0.0"
+pillow = ">=7.1.0"
 python-dotenv = "*"
 psycopg2 = "*"
 celery = "==4.4.2"
